@@ -1,0 +1,36 @@
+_repo: Seville-an-historical-and-descriptive-account-of-the-pearl-of-Andalusia_64914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Calvert, Albert Frederick
+    aliases:
+    - Calvert, Albert F.
+    - Calvert, A. F. (Albert Frederick)
+    birthdate: 1872
+    deathdate: 1946
+    gutenberg_agent_id: '39139'
+    url: http://www.gutenberg.org/2009/agents/39139
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Frederick_Calvert
+description: ''
+gutenberg_issued: '2021-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64914'
+  lccn: 07038019
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Spanish series
+subjects:
+- !lcsh 'Painters -- Spain'
+- !lcc 'DP'
+- !lcsh 'Art -- Spain -- Seville'
+- !lcsh 'Seville (Spain) -- Description and travel'
+- GITenberg
+tableOfContents: Seville -- Moorish Seville -- Seville under the Castilian kings --
+  The Alcazar -- The cathedral -- Other buildings of the fifteenth and sixteenth centuries
+  -- Buildings of the seventeenth and eighteenth centuries -- The painters of Seville
+  -- The old Roman city.
+title: 'Seville: an historical and descriptive account of "the pearl of Andalusia"'
+url: http://www.gutenberg.org/ebooks/64914
